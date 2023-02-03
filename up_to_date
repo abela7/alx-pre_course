@@ -1,1 +1,1 @@
-git pull origin
+git checkout master - switch to a different branch in a Git repository
